@@ -2,10 +2,10 @@ import webbrowser
 import time
 import os
 
-print '\t\t\t ######################################'
+print '\t\t\t '
 print '\t\t\t ##                                  ##'
 print '\t\t\t ##   Author : Tn-Sec (riadh selmi   ##'
-print '\t\t\t ######################################'
+print '\t\t\t '
 
 
 
